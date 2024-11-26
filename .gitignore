@@ -1,4 +1,4 @@
 .env
 env
 __pycache__
-sync_requests.
+sync_requests.py
